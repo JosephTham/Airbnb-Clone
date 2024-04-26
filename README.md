@@ -2,7 +2,7 @@
 
 ## Functionality
 
-The app is a similar version of Airbnb's app but simplified. You are able to login to your account and reserve available places.
+Simplified version of Airbnb. Used firebase for authentication and expo to test.
 
 ## Video Walkthrough
 

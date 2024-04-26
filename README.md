@@ -13,6 +13,3 @@ The app is a similar version of Airbnb's app but simplified. You are able to log
 [Recorded using Quicktime Player]
 [GIF created using Adobe Express]
 
-## Notes
-
-I had a difficult time figuring out how to use expo and the installation.

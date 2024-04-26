@@ -1,6 +1,6 @@
 # Project11
 
-In Project 11 we are making a clone app of Airbnb.
+Airbnb Clone
 
 ## Functionality
 

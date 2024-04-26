@@ -1,6 +1,4 @@
-# Project11
-
-Airbnb Clone
+# Airbnb Clone
 
 ## Functionality
 

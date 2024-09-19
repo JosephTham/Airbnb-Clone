@@ -13,7 +13,7 @@ Simplified version of Airbnb. Used firebase for authentication and expo to test.
 
 ## License
 
-    Copyright [2023] [Joseph Tham]
+    Copyright [2024] [Joseph Tham]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
